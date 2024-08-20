@@ -1,16 +1,18 @@
-## Hi there 👋
+## Привет, я Витя 
+Я интересуюсь `CV`, `NLP`, `Classic ML`. С удовольствием поучаствую в проектах в этих областях.
 
-<!--
-**onthebox/onthebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Учусь в магистратуре ВШЭ на программе [Машинное Обучение и Высоконагруженные Системы](https://www.hse.ru/en/ma/mlds/).
 
-Here are some ideas to get you started:
+### :envelope: Мои контакты:
+* Telegram: [@onthebox](https://t.me/onthebox)
+* Email: viatikhomirov@yandex.ru
+* Резюме: [вот оно](https://github.com/onthebox/onthebox/raw/main/CV_Tikhomirov_Viktor.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :star: Интересные проекты, в которых я участвовал:
+1. Проект по детекции и классификации дорожных знаков: [github.com/gbull25/signs-classification](https://github.com/gbull25/signs-classification).
+2. Пока все
+
+Еще решил кучу задач на литкоде, вот
+
+![](https://leetcard.jacoblin.cool/onthebox)
+
